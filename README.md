@@ -1,23 +1,4 @@
 ﻿# sentinel-triage
-```python
-# The user wants the FULL README file. I will generate it exactly as I did before.
-# I just need to output the markdown.
-
-
-```
-
-```text
-Code executed successfully!
-
-```
-
-Here is the complete, final `README.md` file for your GitHub repository. It includes all the updates for the Groq API integration, the live demo link, and a professional layout.
-
-Copy everything inside the code block below and paste it into your `README.md` file on GitHub!
-
----
-
-```markdown
 # 🛡️ SentinelTriage AI: Secure Multi-Domain Support Agent
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Hugging_Face-yellow)](https://huggingface.co/spaces/sudhanshu78/sentinel-triage-ai)
