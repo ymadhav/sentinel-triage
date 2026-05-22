@@ -1,0 +1,7 @@
+{"timestamp": "2026-05-02 09:21:25", "event_type": "PRIVACY_MASKING", "details": {"company": "Claude", "findings": "Threat Keyword: vulnerability"}}
+{"timestamp": "2026-05-02 09:21:25", "event_type": "SECURITY_ALERT", "details": {"company": "Claude", "threat": "Threat Keyword: vulnerability", "issue_snippet": "I have found a major security vulnerability in Claude, what are the next steps"}}
+{"timestamp": "2026-05-02 09:26:44", "event_type": "PRIVACY_MASKING", "details": {"company": "Claude", "findings": "Threat Keyword: vulnerability"}}
+{"timestamp": "2026-05-02 09:26:44", "event_type": "SECURITY_ALERT", "details": {"company": "Claude", "threat": "Threat Keyword: vulnerability", "issue_snippet": "I have found a major security vulnerability in Claude, what are the next steps"}}
+{"timestamp": "2026-05-02 09:27:45", "event_type": "PRIVACY_MASKING", "details": {"company": "Claude", "findings": "Found EMAIL"}}
+{"timestamp": "2026-05-02 09:39:32", "event_type": "PRIVACY_MASKING", "details": {"company": "Claude", "severity": "High", "risk_score": 20, "findings": "THREAT: vulnerability"}}
+{"timestamp": "2026-05-02 09:40:33", "event_type": "PRIVACY_MASKING", "details": {"company": "Claude", "severity": "Medium", "risk_score": 10, "findings": "PII: EMAIL"}}

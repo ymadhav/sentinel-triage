@@ -1,0 +1,2 @@
+{"timestamp": "2026-05-02 10:26:58", "event_type": "PRIVACY_MASKING", "details": {"company": "Claude", "severity": "High", "risk_score": 15, "findings": "PII: EMAIL"}}
+{"timestamp": "2026-05-04 20:51:15", "event_type": "PRIVACY_MASKING", "details": {"company": "Claude", "severity": "High", "risk_score": 15, "findings": "PII: EMAIL"}}

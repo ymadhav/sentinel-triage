@@ -1,0 +1,10 @@
+pandas
+pydantic
+langchain-text-splitters
+chromadb
+sentence-transformers
+google-genai
+beautifulsoup4
+requests
+python-dotenv
+streamlit
