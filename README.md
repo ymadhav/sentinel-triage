@@ -155,5 +155,3 @@ To confirm the system is working perfectly locally:
 * B.Sc. AI & ML @ Sharda University
 
 *Built for HackerRank Orchestrate 2026.*
-
-```
