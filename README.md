@@ -152,6 +152,6 @@ To confirm the system is working perfectly locally:
 **Sudhanshu Yadav**
 
 * [LinkedIn](www.linkedin.com/in/sudhanshu0)
-* B.Sc. AI & ML @ Sharda University
+* B.Sc. AI & ML
 
 *Built for HackerRank Orchestrate 2026.*
