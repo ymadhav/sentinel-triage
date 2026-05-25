@@ -149,7 +149,7 @@ To confirm the system is working perfectly locally:
 
 ## 👨‍💻 Author
 
-**Sudhanshu Yadav**
+**Sudhanshu .**
 
 * [LinkedIn](www.linkedin.com/in/sudhanshu0)
 * B.Sc. AI & ML
